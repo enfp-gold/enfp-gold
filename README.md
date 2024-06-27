@@ -7,9 +7,9 @@ I interest Algorithmic Trading & Front-End JavaScript Coding.
 I used to learn MQL4 for building grid trading systems and I used to learn WordPress with Elementor to build a landing page, Lately, I started to learn javascript programming, vue.js, express.js, node.js, etc.
 
 * 🌍  I'm based in Bangkok Thailand
-* 🖥️  See my portfolio at [MY\_WEBSITE]()
-* ✉️  You can contact me at [https://discord.com/]()
-* 🚀  I'm currently working on [MY\_PROJECT]()
+* 🖥️  See my portfolio at []()
+* ✉️  You can contact me at []()
+* 🚀  I'm currently working on []()
 * 🧠  I'm learning Nuxt.js
 * 🤝  I'm open to collaborating on https://gist.github.com/enfp-gold/ceed8bf44e44c49d77238731628512da
 * ⚡  docker pull pinetwork/pi-node-docker
